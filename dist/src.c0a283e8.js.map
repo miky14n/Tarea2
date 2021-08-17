@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/App.js","src/index.js"],"names":["alert"],"mappings":";AAAAA,MAAM;;ACAN,aAAA,QAAA","file":"src.c0a283e8.js","sourceRoot":"..","sourcesContent":["alert(\"hola desde Java scrip\")","import './App';\n"]}
